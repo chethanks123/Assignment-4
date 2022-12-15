@@ -1,0 +1,16 @@
+
+spring:
+  application:
+     name: Employee Details Managament
+  jackson:
+    serialization:
+      write-dates-as-timestamps: false
+       
+application:
+  title: Employee Details Access Application
+  description:  Employee Details Access Application API reference for Developers
+  version: v0.0.1
+
+server:
+  port: 8086
+  
